@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UTS2019</string>
+    <string name="hello">Helloww Shoppers</string>
+    <string name="uss">Username</string>
+    <string name="pass">Password</string>
+    <string name="btn">Masuk</string>
+    <string name="krm">Kirim</string>
+    <string name="ttp">Tutup</string>
+    <string name="btl">Batal</string>
+    <string name="back">Kembali</string>
+    <string name="smp">Simpan</string>
+    <string name="bk1">Harry Potter</string>
+    <string name="bk2">Si Kancil Baik Hati \nHarga : Rp.15.000</string>
+    <string name="bk3">Drama UTS PAM \nHarga : Rp.475.000</string>
+    <string name="bk4">Jawaban Yang Tertukar \nHarga : Rp.60.000</string>
+    <string name="bk5">Indah Pada Waktunya \nHarga : Rp.7.250.000</string>
+    <string name="bk6">Surat Kecil Untuk Tuhan \nHarga : Rp.2.000.000</string>
+    <string name="teks">“Jika setiap angka pada NIM 11417030 saya dijumlahkan dan kemudian hasilnya dikali 8, maka nilainya adalah 136”. </string>
+    <string name="batal">Batal</string>
+    <string name="tutup">Tutup</string>
+</resources>

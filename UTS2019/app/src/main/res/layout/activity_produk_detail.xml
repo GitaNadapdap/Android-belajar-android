@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/detail"
+    tools:context=".ProdukDetail">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Detail Produk"
+        android:gravity="center"
+        android:textSize="50dp"
+        android:layout_marginTop="0dp"/>
+
+    <TextView
+        android:id="@+id/detail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Judul Buku: "
+        android:layout_below="@id/text1"
+        android:textSize="20sp"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:id="@+id/details"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Harga Buku: "
+        android:layout_marginTop="180dp"/>
+
+
+        <Button
+            android:id="@+id/btn"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:text="@string/back"
+            android:onClick="back"
+            android:layout_marginTop="270dp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="450dp"
+        android:text="@string/teks" />
+
+</RelativeLayout>
